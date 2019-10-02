@@ -1,0 +1,30 @@
+.striked {
+	 text-decoration: line-through;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	border: 2px solid #528AEB;
+	margin-bottom: 10px;
+}
+
+.itemText {
+	color: grey;
+	font-style: italic;
+	font-size: 22px;
+	padding-left: 10px;
+}
+
+.checkBtn, .deleteBtn {
+	margin: 0 0 10px 10px;
+	padding: 5px;
+}
+
+#errMsg {
+	color: red;
+	font-weight: bold;
+	margin-left: 10px; 
+}
